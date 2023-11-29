@@ -53,6 +53,6 @@ const Projects = ({openModal,setOpenModal}) => {
       {/* </Wrapper> */}
     </Container>
   )
-}
+} 
 
 export default Projects
